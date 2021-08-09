@@ -2,11 +2,13 @@
 #include <vector>
 #include <siv3D.hpp>
 #include "cEnemy.h"
+using std::vector;
 
 class cEnemyManager
 {
+    vector<cEnemy> m_enemies;
 public:
-    std::vector<cEnemy> enemies;
+    int getSize();
     void update();
     void draw();
     void add(cEnemy enemy);

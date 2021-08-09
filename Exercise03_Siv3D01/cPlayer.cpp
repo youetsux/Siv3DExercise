@@ -19,6 +19,4 @@ void cPlayer::update()
 	{
 		m_position.y += +5;
 	}
-
-	this->draw();
 }

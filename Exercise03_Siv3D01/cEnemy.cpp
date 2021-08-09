@@ -28,5 +28,4 @@ void cEnemy::update()
 	//m_position.y = dy;
 	m_position += m_velocity;
 	
-	this->draw();
 }
