@@ -368,3 +368,8 @@ FodyWeavers.xsd
 /Exercise02/App/engine
 /Exercise02/App/nlp/japanese/jumanpp
 /Exercise02/App
+/Exercise01/App/nlp/japanese/jumanpp
+/Exercise01/App/example/zip
+/Exercise01/App/example
+/Exercise01/App
+/Exercise01/Excercise01.vcxproj.filters
