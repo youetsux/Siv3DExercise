@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise03_2", "..\Exercise
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise03_Siv3D01", "..\Exercise03_Siv3D01\Exercise03_Siv3D01.vcxproj", "{97E642F8-E8EC-458D-A7AE-0079F72E7BC5}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exercise04_Siv3D", "..\Exercise04_Siv3D\Exercise04_Siv3D.vcxproj", "{4C06E04A-D3D8-48B4-975B-C320ABAC21CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -79,6 +81,12 @@ Global
 		{97E642F8-E8EC-458D-A7AE-0079F72E7BC5}.Release|x64.ActiveCfg = Release|x64
 		{97E642F8-E8EC-458D-A7AE-0079F72E7BC5}.Release|x64.Build.0 = Release|x64
 		{97E642F8-E8EC-458D-A7AE-0079F72E7BC5}.Release|x86.ActiveCfg = Release|x64
+		{4C06E04A-D3D8-48B4-975B-C320ABAC21CB}.Debug|x64.ActiveCfg = Debug|x64
+		{4C06E04A-D3D8-48B4-975B-C320ABAC21CB}.Debug|x64.Build.0 = Debug|x64
+		{4C06E04A-D3D8-48B4-975B-C320ABAC21CB}.Debug|x86.ActiveCfg = Debug|x64
+		{4C06E04A-D3D8-48B4-975B-C320ABAC21CB}.Release|x64.ActiveCfg = Release|x64
+		{4C06E04A-D3D8-48B4-975B-C320ABAC21CB}.Release|x64.Build.0 = Release|x64
+		{4C06E04A-D3D8-48B4-975B-C320ABAC21CB}.Release|x86.ActiveCfg = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
